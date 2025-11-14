@@ -1,5 +1,5 @@
 streamlit
-google-generativeai
+google-genai
 faiss-cpu
 vaderSentiment
 wordcloud
@@ -7,3 +7,4 @@ plotly
 pandas
 numpy
 nltk
+scikit-learn
